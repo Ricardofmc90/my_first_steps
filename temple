@@ -1,0 +1,36 @@
+<html>
+  <head>
+      <meta charset='utf-8' />
+      <title>Japanese Temples</title>
+  </head>  
+  <body>
+    <p>Nesta página veremos alguns dos belos templos localizados em Kyoto, Japão:</p>
+    <ul>
+      <li>Kiyomizu-dera</li>
+      <li>Ginkaku-ji</li>
+      <li>Nanzen-ji</li>
+      <li>Kyo-o-gokoku-ji</li>
+   </ul>
+    <h1>
+      Kiyomizu-dera
+    </h1>
+    <img src='001.PNG' alt='Templo de Kiyomizu-dera'>
+    <p>O templo de Kiyomizu-dera foi fundado no início do período Heian. Uma curiosidade é que não há um único prego usado em toda a estrutura. Seu nome foi baseado na cachoeira que flui nas colinas próximas de lá. <br/> <a href='https://pt.wikipedia.org/wiki/Kiyomizu-dera'>Clique aqui</a> para mais informações!</p>
+    <h2>
+      Ginkaku-ji
+    </h2>
+    <img src='002.PNG' alt='Templo de Ginkaku-ji'>
+    <p>O templo de Ginkaku-ji (Pavilhão Prateado) se situa na região leste de Quioto no pé do monte Tsukimachi. Teve sua construção iniciada no século XV e foi transformado em um templo budista após sua construção. <br/> <a href='https://pt.wikipedia.org/wiki/Ginkaku-ji'>Clique aqui</a> para mais informações!</p>
+    <h3>
+      Nanzen-ji
+    </h3>
+    <img src='003.PNG' alt='Templo de Nanzen-ji'>
+    <p>O templo de Nanzen-ji é um templo budista que foi fundado no período Kamakura, por volta de 1291. Foi destruído três vezes: 1393, 1447 e 1467, todas as vezes por chamas. Foi reconstruído em 1597 e expandido durante a era Edo. <br/><a href='https://en.wikipedia.org/wiki/Nanzen-ji'>Clique aqui</a> para mais informações!</p>
+    <h4>
+      Kyo-o-gokoku-ji
+    </h4>
+    <img src='004.PNG' alt='Templo de Kyo-o-gokoku-ji'>
+    <p>O templo de Kyo-o-gokoku-ji é um templo budista em Quioto, Japão. Seu nome significa "Templo Leste". <br/><a href='https://pt.wikipedia.org/wiki/Kyo-o-gokoku-ji'>Clique aqui</a> para mais informações!</p>
+  </body>
+
+</html>
